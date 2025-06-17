@@ -29,6 +29,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Levge.Exceptions" Version="1.0.0" />
+		<PackageReference Include="Levge.Exceptions" Version="1.1.0" />
 	</ItemGroup>
 </Project>
